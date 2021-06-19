@@ -1,4 +1,4 @@
-$(function () {
+$(function () { x
   // save references to often used DOM elements
   const imageSlider = $('#property-image-slider');
   const map = $('#map');
